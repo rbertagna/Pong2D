@@ -1,0 +1,17 @@
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/obj/Debug/Assembly-CSharp.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/UnityEngine.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/UnityEditor.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Mono.Cecil.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Unity.DataContract.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/julianne/Desktop/development/Unity/Pong2D/Temp/bin/Debug/Mono.Cecil.Mdb.dll
